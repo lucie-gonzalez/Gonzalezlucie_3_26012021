@@ -3,6 +3,7 @@ body, html {
   margin: 0;
   font-family: "Roboto", sans-serif;
   scroll-behavior: smooth;
+  cursor: default;
 }
 
 .container {
@@ -319,6 +320,7 @@ body, html {
   margin: 0;
   font-family: "Roboto", sans-serif;
   scroll-behavior: smooth;
+  cursor: default;
 }
 
 .container {
@@ -432,6 +434,7 @@ body, html {
 }
 .local__text {
   font-weight: 700;
+  cursor: text;
 }
 
 .info {
